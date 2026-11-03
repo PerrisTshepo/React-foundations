@@ -28,3 +28,23 @@ export const invoices = [
     date: '2022-11-14',
   },
 ];
+
+export const revenue = [
+  { month: 'Jan', revenue: 1000 },
+  { month: 'Feb', revenue: 2000 },
+];
+
+export const users = [
+  {
+    id: '1',
+    name: 'User One',
+    email: 'user1@example.com',
+    password: 'password123',
+  },
+  {
+    id: '2',
+    name: 'User Two',
+    email: 'user2@example.com',
+    password: 'password123',
+  },
+];
